@@ -1,0 +1,6 @@
+{
+  "name": "AutoLaudo Pro",
+  "description": "Sistema de vistoria técnica e avaliação de veículos usados com consulta da Tabela FIPE em tempo real, mapeamento de avarias na carroceria, teste de rodagem, precificação para revenda e emissão de laudo técnico em PDF para WhatsApp e e-mail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
